@@ -202,7 +202,7 @@ labels = clusterer.fit_predict(similarity_for_affinity)
 ## References
 
 - Variational Quantum Eigensolver (VQE): Peruzzo et al., Nature Communications 5, 4213 (2014)
-- Affinity Propagation: Frey & Dueck, Science 315, 972-976 (2007)
+- Affinity Propagation: Frey & Dueck, "Clustering by passing messages between data points," Science 315, 972-976 (2007)
 - SPSA Optimization: Spall, IEEE Transactions on Automatic Control 37, 332-341 (1992)
 
 ## License
