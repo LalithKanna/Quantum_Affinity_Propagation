@@ -1,4 +1,4 @@
-# Quantum Clustering using VQE and Affinity Propagation
+# Quantum Affinity Propagation Using VQE
 
 A hybrid quantum-classical machine learning pipeline that performs clustering using Variational Quantum Eigensolver (VQE) to compute similarity matrices, followed by Affinity Propagation clustering.
 
