@@ -41,7 +41,7 @@ pip install numpy matplotlib scikit-learn qiskit scipy optuna
 ### Basic Usage
 
 ```python
-python your_script.py
+python quantum_clustering.py
 ```
 
 The script will automatically:
